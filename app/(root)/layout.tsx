@@ -1,7 +1,7 @@
 import Navbar from "@/components/shared/navbar/Navbar";
 import LeftSidebar from "@/components/shared/sidebar/LeftSidebar";
 import RightSidebar from "@/components/shared/sidebar/RightSidebar";
-
+import React from "react";
  
 export default function Layout({
     children,
